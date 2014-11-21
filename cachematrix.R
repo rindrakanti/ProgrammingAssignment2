@@ -1,5 +1,4 @@
 
-
 #test with the following 2*2 matrix which returns the correct results
 #mat.sample = matrix(c(3,-7,5,2), nrow=2, ncol=2)
 #inverse of mat.sample = matrix(c(0.04878049,0.17073171,-0.12195122,0.07317073))

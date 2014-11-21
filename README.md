@@ -20,3 +20,4 @@ repeatedly.
 
 Computing the inverse of a square matrix is done with the `solve`
 function in R.
+
